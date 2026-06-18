@@ -241,7 +241,6 @@ Frontend Developer | MERN Stack Developer
 
 💼 Portfolio: https://portfolio-pearl-beta-49.vercel.app/
 
-🔗 LinkedIn: linkedin.com/in/gj-cp-gecpl-2027-037-umangi/?skipRedirect=true
 
 ---
 
