@@ -58,16 +58,6 @@ The application instantly displays the BMI value along with the corresponding he
 
 ---
 
-## 🖼️ Preview
-
-### BMI Calculator Interface
-
-<p align="center">
-  <img src="./screenshots/Screenshot.png" width="90%">
-</p>
-
----
-
 ## 🎨 UI/UX Highlights
 
 ✅ Clean & Minimal Design
@@ -249,9 +239,9 @@ Frontend Developer | MERN Stack Developer
 
 🐙 GitHub: https://github.com/Umangi-webdev
 
-💼 Portfolio: Add Your Portfolio Lin
+💼 Portfolio: https://portfolio-pearl-beta-49.vercel.app/
 
-🔗 LinkedIn: Add Your LinkedIn Link
+🔗 LinkedIn: linkedin.com/in/gj-cp-gecpl-2027-037-umangi/?skipRedirect=true
 
 ---
 
