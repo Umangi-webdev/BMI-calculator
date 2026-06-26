@@ -241,6 +241,7 @@ Frontend Developer | MERN Stack Developer
 
 💼 Portfolio: https://portfolio-pearl-beta-49.vercel.app/
 
+⭐ If you found this project useful, give it a star!
 
 ---
 
